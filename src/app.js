@@ -4,6 +4,7 @@ const app = express()
 
 const index = require("./routes/index")
 const livros = require("./routes/livrosRoute")
+const funcionarios = require("./routes/funcionariosRoute")
 
 app.use(bodyParser.json())
 
@@ -18,5 +19,6 @@ app.use(function (req, res, next) {
 
 app.use("/", index)
 app.use("/livros", livros)
+app.use("/funcionarios", funcionarios)
 
 module.exports = app
