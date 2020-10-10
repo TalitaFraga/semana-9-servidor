@@ -4,6 +4,7 @@ const controller = require("../controller/livrosController")
 
 router.get("/", controller.getAll)
 router.get("/:genre", controller.getByGenres)
+router.post("/", controller.postLivros)
 router.delete("/:id", controller.deleteLivros)
 
 
