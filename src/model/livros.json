@@ -1,1 +1,73 @@
-[{"id":1,"book":"Le Petit Prince","author":"Antoine de Saint-Exupéry","publishing_year":1943,"genre":"Fantasy"},{"id":2,"book":"The Hobbit","author":"J. R. R. Tolkien","publishing_year":1937,"genre":"Fantasy"},{"id":3,"book":"Harry Potter and the Philosopher's Stone","author":"J. K. Rowling","publishing_year":1997,"genre":"Mystery"},{"id":4,"book":"And Then There Were None","author":"Agatha Christie","publishing_year":1939,"genre":"Mystery"},{"id":5,"book":"Dream of the Red Chamber","author":"Cao Xueqin","publishing_year":1791,"genre":"Family saga"},{"id":6,"book":"The Da Vinci Code","author":"Dan Brown","publishing_year":2003,"genre":"Mystery thriller"},{"id":7,"book":"The Alchemist","author":"Paulo Coelho","publishing_year":1988,"genre":"Fantasy"},{"id":8,"book":"Lolita","author":"Vladimir Nabokov","publishing_year":1955,"genre":"General"},{"id":9,"book":"The Lion, the Witch and the Wardrobe","author":"C. S. Lewis","publishing_year":1950,"genre":"Fantasy"},{"id":10,"book":"Cien años de soledad","author":"Gabriel García Márquez","publishing_year":1967,"genre":"Magic Realism"}]
+[
+  {
+    "id": 1,
+    "book": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "publishing_year": 1943,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 2,
+    "book": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "publishing_year": 1937,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 3,
+    "book": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "publishing_year": 1997,
+    "genre": "Mystery"
+  },
+  {
+    "id": 4,
+    "book": "And Then There Were None",
+    "author": "Agatha Christie",
+    "publishing_year": 1939,
+    "genre": "Mystery"
+  },
+  {
+    "id": 5,
+    "book": "Dream of the Red Chamber",
+    "author": "Cao Xueqin",
+    "publishing_year": 1791,
+    "genre": "Family saga"
+  },
+  {
+    "id": 6,
+    "book": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "publishing_year": 2003,
+    "genre": "Mystery thriller"
+  },
+  {
+    "id": 7,
+    "book": "The Alchemist",
+    "author": "Paulo Coelho",
+    "publishing_year": 1988,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 8,
+    "book": "Lolita",
+    "author": "Vladimir Nabokov",
+    "publishing_year": 1955,
+    "genre": "General"
+  },
+  {
+    "id": 9,
+    "book": "The Lion, the Witch and the Wardrobe",
+    "author": "C. S. Lewis",
+    "publishing_year": 1950,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 10,
+    "book": "Cien años de soledad",
+    "author": "Gabriel García Marquéz",
+    "publishing_year": 1967,
+    "genre": "Magic Realism"
+  }
+]
+
